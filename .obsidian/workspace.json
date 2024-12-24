@@ -11,10 +11,14 @@
             "id": "abdc8eb4c10cda21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/hello-world.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "hello-world"
             }
           }
         ]
@@ -160,6 +164,8 @@
   },
   "active": "abdc8eb4c10cda21",
   "lastOpenFiles": [
+    "source/CNAME",
+    "_config.yml~",
     "themes",
     "source/_posts/hello-world.md",
     "source/_posts",
